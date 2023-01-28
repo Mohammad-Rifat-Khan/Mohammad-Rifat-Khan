@@ -5,7 +5,7 @@
 
 - leanred Languages-> C++
                       Java
-                      SQL
+                      
 
 - 📫 How to reach me ...
              https://twitter.com/_l_Rifat_khan_l
