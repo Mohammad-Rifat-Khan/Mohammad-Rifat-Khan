@@ -1,6 +1,4 @@
 
-![image](https://user-images.githubusercontent.com/119173093/216424068-bdbb7b5e-05f3-4327-b2e6-58e9e41f52d9.png)
-
 
 - 👋 Hi, I’m @Mohammad-Rifat-Khan
 - 👀 I’m currently doing my BSc in CSE
