@@ -4,6 +4,7 @@
 - 👀 I’m currently doing my BSc in CSE
 - 🌱 Trying to add new things everyday to the basket ...
  
+-![](https://komarev.com/ghpvc/?username=Mohammad-Rifat-Khan)
 
 - leanred Languages-> C++
                       Java
