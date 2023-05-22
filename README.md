@@ -3,8 +3,12 @@
 - 👋 Hi, I’m @Mohammad-Rifat-Khan
 - 👀 I’m currently doing my BSc in CSE
 - 🌱 Trying to add new things everyday to the basket ...
-- leanred Languages-> C++
-                      Java
+### Languages
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Mohammad-Rifat-Khan)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Mohammad-Rifat-Khan)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Mohammad-Rifat-Khan)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Mohammad-Rifat-Khan)
+
                       
 - 📫 How to reach me ...
             
