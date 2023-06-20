@@ -8,7 +8,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Mohammad-Rifat-Khan)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Mohammad-Rifat-Khan)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Mohammad-Rifat-Khan)
-[![C#](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=c#)](https://github.com/Mohammad-Rifat-Khan)
+[![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=c#)](https://github.com/Mohammad-Rifat-Khan)
 
                       
 - 📫 How to reach me ...
