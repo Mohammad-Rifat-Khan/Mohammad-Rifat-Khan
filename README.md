@@ -17,4 +17,4 @@
             🤵 https://www.linkedin.com/in/md-rifat-khan-18b398214/
             
             
-  -![](https://komarev.com/ghpvc/?username=Mohammad-Rifat-Khan)
+  ![](https://komarev.com/ghpvc/?username=Mohammad-Rifat-Khan)
